@@ -16,7 +16,7 @@ To run the Virtual Mouse Emulator, follow these steps:
 ```
 pip install -r requirements.txt
 ```
-2. Make sure you have Python 2.8.x installed on your system.
+2. Make sure you have Python 3.8.x installed on your system.
 
 3. Install the required Python dependencies by running the following command:
 ```
