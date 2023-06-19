@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 pip install -r requirements.txt
 ```
-4. Run the application by executing the `virtual_mouse.py` file:
+4. Run the application by executing the `aimouse.py` file:
 ```
 pip install -r requirements.txt
 ```
